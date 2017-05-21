@@ -1,2 +1,2 @@
-# DS_Spec
+# datasciencecoursera
 Data Science Course Specialization
